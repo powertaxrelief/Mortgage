@@ -1,0 +1,15 @@
+This is the README file for the Mortgage Calculator
+
+The calculator is rather simple.  Enter the information that is requested and the program will
+calculate your monthly payment.
+
+Guide for entering in information:
+
+For amount borrowed, do not use commas or periods.
+  
+For the annual interest rate, enter as a percent (without the percent symbol).  For example, if
+you are expecting to pay 6.5%, enter 6.5.
+
+Everything else will be calculated correctly!
+
+Weiant Inc
